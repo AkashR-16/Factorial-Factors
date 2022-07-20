@@ -12,5 +12,8 @@ Running the script is simple! Just open a terminal in the folder where your scri
 ### Sample use of the script
 ```
 $ python find_factorial&factor.py
+Enter the number: 10
+The factors of x are  [1, 2, 5, 10]
+The factorial of x is  3628800
     
 ```
